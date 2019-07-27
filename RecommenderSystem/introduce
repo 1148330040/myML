@@ -9,3 +9,17 @@
 该系统使用MYSQL和BMOB作为web端和移动端的数据库
 
 最后关于交互方面，与web端的交互使用了命令行函数，Android端的交互通过java作为中转
+
+This is an attempt on my recommendation system.
+
+The recommendation system uses Java and Android to simulate the mobile and client sides respectively. 
+Note that the simulation is so crude that it only provides the functions of data collection and display. Of course, it also writes several user accounts dead.
+
+XGB + FFM model used in this recommendation system
+
+The recommendation system uses pythons to construct core data processing and model training files.
+
+The system uses MYSQL and BMOB as the database of web and mobile end.
+
+Finally, in terms of interaction, the command line functions are used for interaction with the web side, 
+and the java used for Android interaction is used as a transit.
